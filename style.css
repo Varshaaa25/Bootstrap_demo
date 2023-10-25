@@ -1,0 +1,25 @@
+.btn-lg{
+    margin-left: 50%;
+}
+.display-4{
+    font-weight: 500;
+    font-family:'Times New Roman', Times, serif;
+    text-align: center;
+}
+.jumbotron{
+    margin-top: 15px;
+    border-radius: 10px;
+    
+  
+}
+body{
+    background-color: grey;
+}
+@media screen and (max-width:600px),
+screen and(orientation:landscape)
+{
+    body
+    {
+        color:red;
+    }
+}
